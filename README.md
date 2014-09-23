@@ -14,6 +14,8 @@ Most of it doesn't work, and is pretty **dumb**.
 
 ## Installation
 
+### Install dependencies
+
 You know how...
 
 Still reading?!
@@ -70,11 +72,11 @@ ignore this. lolz.
 
 ## Information
 
-This is **not** actually a screenshot and may be *highly misleading*: 
+These are **not** actually screenshots of the website and may be *highly misleading*: 
 
 
 ![Screenshot 1]
-(http://placekitten.com/g/600/400)
+(http://placekitten.com/g/600/500)
 
 ![Screenshot 2]
 (http://placekitten.com/g/400/300)
