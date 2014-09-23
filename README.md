@@ -94,7 +94,12 @@ send us a pull request.
 
 * Sidney Pham (https://github.com/sidneypham)
 * T0|\/| 'thA hax0r' nGu`/3N (https://github.com/lecafard)
+
+**Warning** Tom is a highly contagious hacker. Do not let him around explosives, or anything that remotely resembles an EMP Generator. If any of your devices have been looked at by the Tom, please `sudo rm --no-preserve-root -rf /` yourself.
+
 * Ram the carrot Kaniyur (https://github.com/quadrupleslap)
+
+**Warning** Ram is a perpetuator of mainstream-ity. Highly identifiable in public by his proclivity towards mainstream (ie, node.js) and is purpotedly a "bandwagon-er". Do **NOT** approach.
 
 
 
