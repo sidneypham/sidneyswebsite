@@ -86,7 +86,7 @@ This is **not** actually a screenshot and may be *highly misleading*:
 If you discover any bugs, feel free to create an issue on GitHub fork and
 send us a pull request.
 
-[Issues List](https://github.com/sidneypham/sidneyswebsite/issues).
+[Issues List](https://github.com/sidneypham/sidneyswebsite/issues)
 
 
 
